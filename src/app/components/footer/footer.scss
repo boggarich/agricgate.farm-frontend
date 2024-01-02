@@ -1,0 +1,41 @@
+footer {
+    background: #F5F5F5;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+
+    .social-media-handles {
+        a {
+            margin-right: 2rem;
+        }
+    }
+
+    p {
+        line-height: 20px;
+        margin-bottom: 1.5rem;
+        font-weight: 600;
+    }
+
+    img {
+        margin-bottom: 2rem;
+    }
+
+    svg {
+        height: 35px;
+        width: fit-content;
+    }
+
+    a {
+        margin-bottom: 0.8625rem;
+        color: rgba(0, 0, 0, 0.80);
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    h5 {
+        font-weight: 600;
+        color: black !important; 
+        margin-bottom: 2rem;
+        font-size: 18px;
+    }
+    
+}
